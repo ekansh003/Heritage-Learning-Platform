@@ -1,0 +1,22 @@
+{
+  "name": "Exploristory",
+  "short_name": "Exploristory",
+  "icons": [
+    {
+      "src": "/Exploristory/assets/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Exploristory/assets/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#3f5d5f",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": "/Exploristory/",
+  "scope": "/Exploristory/",
+  "orientation": "portrait"
+}
