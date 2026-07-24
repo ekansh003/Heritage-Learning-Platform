@@ -1,68 +1,63 @@
-# Exploristory
+# Heritage Learning Platform
 
-Exploristory is a modern React-based heritage learning platform focused on experiential education through archaeology, history, and cultural exploration programs for students.
+A modern, responsive educational web platform built with **React** and **Vite**, designed to showcase heritage learning experiences through interactive educational expeditions, workshops, and cultural programs.
 
-The platform showcases:
+This project demonstrates the development of a scalable frontend application featuring responsive design, reusable React components, dynamic content rendering, smooth navigation, and modern UI/UX principles.
 
-- One-Day Heritage Trips
-- Multi-Day Expeditions
-- In-House Workshops
-- Facilitator Support
-- Heritage Expo Planning
-- Custom Educational Programs
-
-Built with React + Vite for a fast, responsive, and scalable frontend experience.
+> **Note:** This repository is a portfolio version. Client-specific branding, content, media, and data have been replaced with demonstration content while preserving the application's architecture and functionality.
 
 ---
 
 ## Features
 
-- Modern responsive UI
-- React component architecture
-- Interactive gallery with lightbox
-- Auto-scrolling sliders
-- Sticky navigation
-- Hash-based section routing
-- Contact form with EmailJS integration
-- Google reCAPTCHA protection
-- SEO meta tags & Open Graph support
-- Mobile responsive design
-- Smooth scrolling navigation
+* Responsive React application
+* Component-based architecture
+* Interactive image gallery
+* Dynamic One-Day & Multi-Day program pages
+* Expandable FAQ section
+* Sticky responsive navigation
+* Smooth scrolling between sections
+* Contact form integration with EmailJS
+* Google reCAPTCHA support
+* SEO-friendly meta tags
+* Open Graph & Twitter Card support
+* Mobile-first responsive design
+* Modular project structure for easy scalability
 
 ---
 
 ## Tech Stack
 
-- React
-- Vite
-- React Router DOM
-- EmailJS
-- CSS3
-- JavaScript (ES6+)
+* React
+* Vite
+* React Router DOM
+* JavaScript (ES6+)
+* CSS3
+* EmailJS
 
 ---
 
 ## Project Structure
 
-```bash
+```text
 src/
- ├── assets/
- ├── components/
- ├── data/
- ├── pages/
- ├── styles/
- ├── App.jsx
- └── main.jsx
+├── assets/
+├── components/
+├── data/
+├── pages/
+├── styles/
+├── App.jsx
+└── main.jsx
 ```
 
 ---
 
-## Local Development
+## Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/exploristoryeducations-alt/Exploristory.git
+git clone https://github.com/ekansh003/heritage-learning-platform.git
 ```
 
 Install dependencies:
@@ -71,7 +66,7 @@ Install dependencies:
 npm install
 ```
 
-Run development server:
+Start the development server:
 
 ```bash
 npm run dev
@@ -87,26 +82,45 @@ npm run build
 
 ## Deployment
 
-This project is optimized for deployment on:
+This project can be deployed on platforms such as:
 
-- Vercel
-- Netlify
-- GitHub Pages
-
----
-
-## SEO & Performance
-
-- Optimized meta tags
-- Open Graph support
-- Twitter card support
-- Responsive image handling
-- Lazy-loaded gallery images
+* Vercel
+* Netlify
+* GitHub Pages
 
 ---
 
-## Exploristory
+## SEO Features
 
-Explore. Imagine. Relive the Past.
+* Semantic HTML structure
+* Meta description & keywords
+* Open Graph tags
+* Twitter Cards
+* FAQ Schema (JSON-LD)
+* Canonical URL support
+* Responsive design
 
-Experiential heritage learning designed to bring history and archaeology beyond textbooks.
+---
+
+## Future Improvements
+
+* CMS integration
+* Admin dashboard
+* Online booking system
+* Dark mode
+* Backend integration
+* Authentication & user management
+
+---
+
+## Author
+
+**Ekansh Jaiswal**
+
+GitHub: https://github.com/ekansh003
+
+---
+
+### License
+
+This repository is intended for educational and portfolio purposes.
